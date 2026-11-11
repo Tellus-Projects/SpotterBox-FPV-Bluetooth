@@ -1,6 +1,6 @@
-# DJI-HDMI Bluetooth
+# SpotterBox FPV Bluetooth
 
-Page de réglage par Bluetooth des boîtiers DJI-HDMI.
+Page de réglage par Bluetooth des boîtiers SpotterBox FPV (anciennement DJI-HDMI).
 
 **Ouvrir la page : https://tellus-projects.github.io/dji-hdmi-bluetooth/**
 
