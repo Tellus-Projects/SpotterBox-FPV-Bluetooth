@@ -1,7 +1,7 @@
 {
-  "name": "DJI-HDMI Bluetooth",
-  "short_name": "DJI-HDMI",
-  "description": "Régler un boîtier DJI-HDMI par Bluetooth.",
+  "name": "SpotterBox FPV Bluetooth",
+  "short_name": "SpotterBox",
+  "description": "Régler un boîtier SpotterBox FPV par Bluetooth.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",
